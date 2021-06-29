@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block css %}
+<link rel="stylesheet" href="./login.css" />
+{% endblock %}
+
+{% block header %}
+<div>wallpaper server</div>
+{% endblock %}
+
+{% block body %}
+<div class='body-ctx'>body</div>
+{% endblock %}
+
+{% block footer %}
+<div>footer</div>
+{% endblock %}
